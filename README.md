@@ -1,14 +1,12 @@
 # Reverse-Engineering-Labs
 A reverse engineering course starting from the basics
-# Reverse Engineering Labs
-
-This repository documents my journey of learning reverse engineering, starting from the fundamentals.
+This repository documents my journey of learning reverse engineering from the fundamentals.
 
 The goal is to understand how compiled programs work internally by exploring topics such as C, assembly, memory, binary formats, debugging, and static/dynamic analysis.
 
 ## What is Reverse Engineering?
 
-Reverse engineering is the process of analyzing a compiled program to understand its structure, behavior, and internal logic without relying on the original source code.
+Reverse engineering is the process of analyzing a compiled program to understand its structure, behavior, and internal logic without access to the original source code.
 
 In this repository, I will explore concepts such as:
 
