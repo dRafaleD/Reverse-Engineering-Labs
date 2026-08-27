@@ -1,8 +1,17 @@
 # Reverse-Engineering-Labs
-A reverse engineering course starting from the basics
+
+[🇬🇧 English](README.md) | [🇹🇷 Türkçe](README.tr.md)
+
+A reverse engineering course starting from the basics.
+
 This repository documents my journey of learning reverse engineering from the fundamentals.
 
 The goal is to understand how compiled programs work internally by exploring topics such as C, assembly, memory, binary formats, debugging, and static/dynamic analysis.
+
+## Labs
+
+- [Day 1 — C Fundamentals](labs/01-c-fundamentals/notes.md)
+- [Day 2 — First Ghidra Analysis](labs/02-first-ghidra-analysis/notes.md)
 
 ## What is Reverse Engineering?
 
