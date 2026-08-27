@@ -1,3 +1,5 @@
+[🇬🇧 English](notes.md) | [🇹🇷 Türkçe](notes.tr.md)
+
 # Day 2 — First Ghidra Analysis
 
 ## Goal
