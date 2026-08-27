@@ -25,6 +25,166 @@ gcc -g hello.c -o hello
 
 Daha sonra oluşan ELF executable Ghidra'ya import edilir ve `main` fonksiyonu analiz edilir.
 
+## Ghidra'ya İlk Kez Girerken Ne Yapıyoruz?
+
+Ghidra'yı ilk kez açan biri için en önemli nokta şudur: **Ghidra kaynak kodu açan bir editör değildir.** Biz `hello.c` dosyasını değil, GCC'nin ürettiği `hello` executable dosyasını inceliyoruz.
+
+Akış şu şekildedir:
+
+```text
+hello.c
+   ↓ gcc
+hello (ELF binary)
+   ↓ Ghidra
+Disassembly + decompiler görünümü
+```
+
+Yani Ghidra, programın derlenmiş halini anlamaya çalışır. Bu yüzden ekranda gördüğümüz kod, C kaynak kodunun birebir aynısı olmak zorunda değildir.
+
+### 1. Yeni Proje Oluşturma
+
+Ghidra açıldığında:
+
+1. `File -> New Project` seçilir.
+2. `Non-Shared Project` seçilir.
+3. Proje için bir klasör ve isim belirlenir.
+
+Bu proje sadece analiz ettiğimiz dosyaları ve Ghidra'nın oluşturduğu analiz verilerini düzenli tutmak için kullanılır.
+
+### 2. Binary'yi Import Etme
+
+Projeyi oluşturduktan sonra:
+
+1. `File -> Import File` seçilir.
+2. `hello.c` **değil**, derlediğimiz `hello` dosyası seçilir.
+3. Ghidra dosyanın ELF olduğunu ve mimari bilgisini otomatik olarak algılar.
+4. Varsayılan import ayarlarıyla devam etmek bu lab için yeterlidir.
+
+Buradaki kritik fikir şudur:
+
+> Reverse engineering sırasında genellikle elimizde kaynak kod değil, derlenmiş executable bulunur.
+
+Bu labda kaynak kodu sadece karşılaştırma yapabilmek için biliyoruz.
+
+### 3. CodeBrowser ile Açma
+
+Import edilen binary'ye çift tıklayınca Ghidra'nın **CodeBrowser** ekranı açılır.
+
+İlk açılışta Ghidra genellikle dosyanın henüz analiz edilmediğini söyler ve analiz yapmak isteyip istemediğimizi sorar.
+
+`Yes` seçilir.
+
+### 4. Analyze Ne İşe Yarıyor?
+
+Analyze aşamasında Ghidra binary'yi otomatik olarak inceleyip bazı şeyleri tahmin etmeye çalışır:
+
+- Fonksiyonların nerede başlayıp bittiğini
+- String'leri
+- Import edilen fonksiyonları
+- Kod ile veri arasındaki farkı
+- Fonksiyon çağrılarını
+- Referansları (XREF)
+
+İlk lab için Analyze penceresindeki varsayılan seçenekleri değiştirmek gerekmez. `Analyze` butonuna basmak yeterlidir.
+
+Ghidra'nın yaptığı analiz kusursuz olmak zorunda değildir. Özellikle daha karmaşık binary'lerde bazı fonksiyonları veya veri yapılarını yanlış yorumlayabilir. Reverse engineering'in önemli bir kısmı da Ghidra'nın tahminlerini kontrol etmektir.
+
+## CodeBrowser Ekranını Tanıyalım
+
+İlk kez açıldığında Ghidra ekranı karmaşık görünebilir. Bu lab için sadece birkaç bölümü bilmek yeterlidir.
+
+### Listing
+
+Ortadaki ana bölüm genellikle **Listing** görünümüdür.
+
+Burada:
+
+- Memory address
+- Machine-code byte'ları
+- Assembly instruction'ları
+- Ghidra'nın eklediği yorumlar ve referanslar
+
+görülür.
+
+Örneğin:
+
+```text
+00101159    55             PUSH RBP
+0010115a    48 89 e5       MOV  RBP,RSP
+```
+
+CPU aslında `55`, `48 89 e5` gibi byte'ları çalıştırır. Ghidra bunları bizim okuyabileceğimiz assembly instruction'larına çevirir.
+
+### Decompiler
+
+Sağ tarafta genellikle **Decompiler** penceresi bulunur.
+
+Decompiler, assembly'yi okuyup C'ye benzeyen daha anlaşılır bir temsil üretmeye çalışır.
+
+Örneğin şuna benzer bir görüntü görebiliriz:
+
+```c
+int main(void)
+{
+    puts("This is my first c code");
+    return 0;
+}
+```
+
+Bu kodun önemli bir özelliği vardır:
+
+> Decompiler çıktısı orijinal kaynak kod değildir.
+
+Ghidra sadece machine code'dan yola çıkarak yüksek seviyeli bir temsil üretir. Bu nedenle değişken isimleri, fonksiyon çağrıları ve kod yapısı kaynak koddan farklı olabilir.
+
+### Symbol Tree
+
+Sol tarafta bulunan **Symbol Tree**, binary içinde Ghidra'nın tanıdığı sembolleri kategoriler halinde gösterir.
+
+Özellikle:
+
+```text
+Symbol Tree
+└── Functions
+    └── main
+```
+
+kısmı bu lab için önemlidir.
+
+`main` üzerine çift tıklayarak doğrudan ana fonksiyona gidebiliriz.
+
+Bazı binary'lerde `main` ismi görünmeyebilir. Bunun nedeni binary'nin strip edilmiş olması, debug/sembol bilgilerinin bulunmaması veya Ghidra'nın fonksiyonu henüz doğru şekilde tanımlayamamış olması olabilir.
+
+### Defined Strings
+
+Ghidra binary içindeki string'leri de bulabilir.
+
+`Window -> Defined Strings` üzerinden bulunan string'ler görülebilir.
+
+Burada:
+
+```text
+This is my first c code
+```
+
+string'ini bulup üzerine çift tıklamak, bizi string'in bellekte bulunduğu yere götürür.
+
+String'e sağ tıklayıp veya XREF bilgilerini kullanarak bu string'in nereden kullanıldığını takip etmek mümkündür. Reverse engineering sırasında string'ler çoğu zaman programın davranışı hakkında hızlı ipuçları verir.
+
+## `main` Fonksiyonunu Bulma
+
+Bu labda en kolay yöntem:
+
+```text
+Symbol Tree -> Functions -> main
+```
+
+üzerinden `main` fonksiyonuna çift tıklamaktır.
+
+Alternatif olarak `Defined Strings` penceresinden `This is my first c code` string'ini bulup referanslarını takip ederek de `main` fonksiyonuna ulaşabiliriz.
+
+Bu ikinci yöntem ileride çok işimize yarar çünkü gerçek analizlerde fonksiyon isimleri her zaman elimizde olmayabilir.
+
 ## Ghidra'da `main` Fonksiyonu
 
 İlgili assembly'nin sadeleştirilmiş hali yaklaşık olarak şöyledir:
@@ -233,6 +393,18 @@ stack-frame durumu geri yüklenir
     ↓
 fonksiyondan dönülür
 ```
+
+## Yeni Başlayan İçin Mini Ghidra Alıştırması
+
+Bu labı bitirmeden önce doğrudan cevaba bakmadan şunları bulmaya çalış:
+
+1. `Symbol Tree` üzerinden `main` fonksiyonunu bul.
+2. Listing ekranında `CALL puts` instruction'ını bul.
+3. `Defined Strings` ekranından `This is my first c code` string'ini bul.
+4. String'in XREF bilgisini kullanarak hangi kod tarafından kullanıldığını takip et.
+5. Decompiler görünümü ile Listing görünümünü yan yana karşılaştır.
+
+Buradaki amaç bütün assembly'yi anlamak değil. Aynı davranışın C, decompiler ve assembly seviyelerinde nasıl farklı göründüğünü fark etmektir.
 
 ## Ana Çıkarım
 
