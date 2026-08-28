@@ -12,6 +12,7 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 1 — C Fundamentals](labs/01-c-fundamentals/notes.md)
 - [Day 2 — First Ghidra Analysis](labs/02-first-ghidra-analysis/notes.md)
+- [Day 3 — C Variables Inside a Binary](labs/03-c-variables-in-binary/notes.md)
 
 ## What is Reverse Engineering?
 
