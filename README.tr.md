@@ -13,6 +13,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 1 — C Temelleri](labs/01-c-fundamentals/notes.tr.md)
 - [Gün 2 — İlk Ghidra Analizi](labs/02-first-ghidra-analysis/notes.tr.md)
 - [Gün 3 — C Değişkenlerinin Binary İçindeki Görünümü](labs/03-c-variables-in-binary/notes.tr.md)
+- [Gün 4 — C Fonksiyonları ve Calling Convention](labs/04-functions-and-calling-convention/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
