@@ -17,6 +17,10 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 5 — Stack Frames and Local Variables](labs/05-stack-frames-and-locals/notes.md)
 - [Day 6 — Conditions and Conditional Jumps](labs/06-conditions-and-conditional-jumps/notes.md)
 
+## Learning Approach
+
+Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
+
 ## What is Reverse Engineering?
 
 Reverse engineering is the process of analyzing a compiled program to understand its structure, behavior, and internal logic without access to the original source code.
