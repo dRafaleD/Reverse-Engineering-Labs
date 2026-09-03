@@ -16,6 +16,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 4 — C Functions and Calling Conventions](labs/04-functions-and-calling-convention/notes.md)
 - [Day 5 — Stack Frames and Local Variables](labs/05-stack-frames-and-locals/notes.md)
 - [Day 6 — Conditions and Conditional Jumps](labs/06-conditions-and-conditional-jumps/notes.md)
+- [Day 7 — Loops and Backward Jumps](labs/07-loops-and-backward-jumps/notes.md)
 
 ## Learning Approach
 
