@@ -17,6 +17,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 5 — Stack Frames and Local Variables](labs/05-stack-frames-and-locals/notes.md)
 - [Day 6 — Conditions and Conditional Jumps](labs/06-conditions-and-conditional-jumps/notes.md)
 - [Day 7 — Loops and Backward Jumps](labs/07-loops-and-backward-jumps/notes.md)
+- [Day 8 — Arrays and Pointer Basics](labs/08-arrays-and-pointers/notes.md)
 
 ## Learning Approach
 
