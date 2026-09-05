@@ -17,6 +17,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 5 — Stack Frame ve Local Değişkenler](labs/05-stack-frames-and-locals/notes.tr.md)
 - [Gün 6 — Koşullar ve Conditional Jump'lar](labs/06-conditions-and-conditional-jumps/notes.tr.md)
 - [Gün 7 — Döngüler ve Geriye Jump'lar](labs/07-loops-and-backward-jumps/notes.tr.md)
+- [Gün 8 — Diziler ve Pointer Temelleri](labs/08-arrays-and-pointers/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
