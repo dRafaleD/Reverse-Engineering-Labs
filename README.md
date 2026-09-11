@@ -19,6 +19,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 7 — Loops and Backward Jumps](labs/07-loops-and-backward-jumps/notes.md)
 - [Day 8 — Arrays and Pointer Basics](labs/08-arrays-and-pointers/notes.md)
 - [Day 9 — Structs and Memory Layout](labs/09-structs-and-memory-layout/notes.md)
+- [Day 10 — Switch Statements and Jump Tables](labs/10-switch-and-jump-tables/notes.md)
 
 ## Learning Approach
 
