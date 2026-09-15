@@ -22,6 +22,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 10 — Switch Yapıları ve Jump Table'lar](labs/10-switch-and-jump-tables/notes.tr.md)
 - [Gün 11 — String'ler ve Char Dizileri](labs/11-strings-and-char-arrays/notes.tr.md)
 - [Gün 12 — malloc ve Heap Temelleri](labs/12-malloc-and-heap-basics/notes.tr.md)
+- [Gün 13 — Function Pointer'lar ve Indirect Call'lar](labs/13-function-pointers-and-indirect-calls/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
