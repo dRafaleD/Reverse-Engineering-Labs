@@ -22,6 +22,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 10 — Switch Statements and Jump Tables](labs/10-switch-and-jump-tables/notes.md)
 - [Day 11 — Strings and Character Arrays](labs/11-strings-and-char-arrays/notes.md)
 - [Day 12 — malloc and Heap Basics](labs/12-malloc-and-heap-basics/notes.md)
+- [Day 13 — Function Pointers and Indirect Calls](labs/13-function-pointers-and-indirect-calls/notes.md)
 
 ## Learning Approach
 
