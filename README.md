@@ -25,6 +25,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 13 — Function Pointers and Indirect Calls](labs/13-function-pointers-and-indirect-calls/notes.md)
 - [Day 14 — Global and Static Variables](labs/14-global-and-static-variables/notes.md)
 - [Day 15 — Signed and Unsigned Integers](labs/15-signed-and-unsigned-integers/notes.md)
+- [Day 16 — Recursion and Nested Stack Frames](labs/16-recursion-and-nested-stack-frames/notes.md)
 
 ## Learning Approach
 
