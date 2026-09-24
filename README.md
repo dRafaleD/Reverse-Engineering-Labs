@@ -26,6 +26,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 14 — Global and Static Variables](labs/14-global-and-static-variables/notes.md)
 - [Day 15 — Signed and Unsigned Integers](labs/15-signed-and-unsigned-integers/notes.md)
 - [Day 16 — Recursion and Nested Stack Frames](labs/16-recursion-and-nested-stack-frames/notes.md)
+- [Day 17 — Bitwise Operations and Flags](labs/17-bitwise-operations-and-flags/notes.md)
 
 ## Learning Approach
 
