@@ -27,6 +27,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 15 — Signed and Unsigned Integers](labs/15-signed-and-unsigned-integers/notes.md)
 - [Day 16 — Recursion and Nested Stack Frames](labs/16-recursion-and-nested-stack-frames/notes.md)
 - [Day 17 — Bitwise Operations and Flags](labs/17-bitwise-operations-and-flags/notes.md)
+- [Day 18 — Library Calls, PLT/GOT and String Comparison](labs/18-library-calls-plt-got/notes.md)
 
 ## Learning Approach
 
