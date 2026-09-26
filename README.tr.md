@@ -27,6 +27,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 15 — Signed ve Unsigned Integer'lar](labs/15-signed-and-unsigned-integers/notes.tr.md)
 - [Gün 16 — Recursion ve İç İçe Stack Frame'ler](labs/16-recursion-and-nested-stack-frames/notes.tr.md)
 - [Gün 17 — Bitwise İşlemler ve Flag'ler](labs/17-bitwise-operations-and-flags/notes.tr.md)
+- [Gün 18 — Library Call'ları, PLT/GOT ve String Karşılaştırma](labs/18-library-calls-plt-got/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
