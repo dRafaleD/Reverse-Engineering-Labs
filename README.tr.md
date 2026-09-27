@@ -28,6 +28,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 16 — Recursion ve İç İçe Stack Frame'ler](labs/16-recursion-and-nested-stack-frames/notes.tr.md)
 - [Gün 17 — Bitwise İşlemler ve Flag'ler](labs/17-bitwise-operations-and-flags/notes.tr.md)
 - [Gün 18 — Library Call'ları, PLT/GOT ve String Karşılaştırma](labs/18-library-calls-plt-got/notes.tr.md)
+- [Gün 19 — Function Pointer'lara Dönüş: Callback ve Indirect Control Flow](labs/19-callbacks-and-indirect-control-flow/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
