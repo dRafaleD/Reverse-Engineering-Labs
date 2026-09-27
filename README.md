@@ -28,6 +28,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 16 — Recursion and Nested Stack Frames](labs/16-recursion-and-nested-stack-frames/notes.md)
 - [Day 17 — Bitwise Operations and Flags](labs/17-bitwise-operations-and-flags/notes.md)
 - [Day 18 — Library Calls, PLT/GOT and String Comparison](labs/18-library-calls-plt-got/notes.md)
+- [Day 19 — Function Pointers Revisited: Callbacks and Indirect Control Flow](labs/19-callbacks-and-indirect-control-flow/notes.md)
 
 ## Learning Approach
 
