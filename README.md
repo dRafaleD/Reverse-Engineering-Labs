@@ -29,6 +29,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 17 — Bitwise Operations and Flags](labs/17-bitwise-operations-and-flags/notes.md)
 - [Day 18 — Library Calls, PLT/GOT and String Comparison](labs/18-library-calls-plt-got/notes.md)
 - [Day 19 — Function Pointers Revisited: Callbacks and Indirect Control Flow](labs/19-callbacks-and-indirect-control-flow/notes.md)
+- [Day 20 — ELF Sections, Symbols and Stripped Binaries](labs/20-elf-sections-symbols-and-stripping/notes.md)
 
 ## Learning Approach
 
