@@ -31,6 +31,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 19 — Function Pointers Revisited: Callbacks and Indirect Control Flow](labs/19-callbacks-and-indirect-control-flow/notes.md)
 - [Day 20 — ELF Sections, Symbols and Stripped Binaries](labs/20-elf-sections-symbols-and-stripping/notes.md)
 - [Day 21 — GDB Basics: Breakpoints, Registers and Stepping Through Execution](labs/21-gdb-breakpoints-registers-and-stepping/notes.md)
+- [Day 22 — Process Memory Layout, Virtual Memory, ASLR and /proc Maps](labs/22-process-memory-layout-aslr-and-proc-maps/notes.md)
 
 ## Learning Approach
 
