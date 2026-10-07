@@ -33,6 +33,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 21 — GDB Basics: Breakpoints, Registers and Stepping Through Execution](labs/21-gdb-breakpoints-registers-and-stepping/notes.md)
 - [Day 22 — Process Memory Layout, Virtual Memory, ASLR and /proc Maps](labs/22-process-memory-layout-aslr-and-proc-maps/notes.md)
 - [Day 23 — Validation Logic, Data Flow and Branch Tracing in Ghidra + GDB](labs/23-validation-data-flow-and-branch-tracing/notes.md)
+- [Day 24 — System Calls, libc Wrappers, strace and ltrace](labs/24-syscalls-libc-strace-and-ltrace/notes.md)
 
 ## Learning Approach
 
