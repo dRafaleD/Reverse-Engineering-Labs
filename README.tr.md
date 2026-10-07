@@ -33,6 +33,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 21 — GDB Temelleri: Breakpoint, Register ve Adım Adım Çalışma](labs/21-gdb-breakpoints-registers-and-stepping/notes.tr.md)
 - [Gün 22 — Process Memory Layout, Virtual Memory, ASLR ve /proc Maps](labs/22-process-memory-layout-aslr-and-proc-maps/notes.tr.md)
 - [Gün 23 — Validation Logic, Data Flow ve Ghidra + GDB ile Branch Tracing](labs/23-validation-data-flow-and-branch-tracing/notes.tr.md)
+- [Gün 24 — System Call, libc Wrapper, strace ve ltrace](labs/24-syscalls-libc-strace-and-ltrace/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
