@@ -34,6 +34,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 22 — Process Memory Layout, Virtual Memory, ASLR ve /proc Maps](labs/22-process-memory-layout-aslr-and-proc-maps/notes.tr.md)
 - [Gün 23 — Validation Logic, Data Flow ve Ghidra + GDB ile Branch Tracing](labs/23-validation-data-flow-and-branch-tracing/notes.tr.md)
 - [Gün 24 — System Call, libc Wrapper, strace ve ltrace](labs/24-syscalls-libc-strace-and-ltrace/notes.tr.md)
+- [Gün 25 — Shared Library, Dynamic Linking, Loader Resolution ve LD_DEBUG](labs/25-shared-libraries-dynamic-linking-and-loader/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
