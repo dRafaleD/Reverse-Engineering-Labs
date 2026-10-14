@@ -36,6 +36,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 24 — System Calls, libc Wrappers, strace and ltrace](labs/24-syscalls-libc-strace-and-ltrace/notes.md)
 - [Day 25 — Shared Libraries, Dynamic Linking, Loader Resolution and LD_DEBUG](labs/25-shared-libraries-dynamic-linking-and-loader/notes.md)
 - [Day 26 — Process Creation, fork/exec, waitpid and Runtime Process Tracing](labs/26-process-creation-fork-exec-and-tracing/notes.md)
+- [Day 27 — Signals, Crash Analysis, Core Dumps and GDB Backtraces](labs/27-signals-crash-triage-and-gdb/notes.md)
 
 ## Learning Approach
 
