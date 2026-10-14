@@ -36,6 +36,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 24 — System Call, libc Wrapper, strace ve ltrace](labs/24-syscalls-libc-strace-and-ltrace/notes.tr.md)
 - [Gün 25 — Shared Library, Dynamic Linking, Loader Resolution ve LD_DEBUG](labs/25-shared-libraries-dynamic-linking-and-loader/notes.tr.md)
 - [Gün 26 — Process Oluşturma, fork/exec, waitpid ve Çalışma Zamanı İzleme](labs/26-process-creation-fork-exec-and-tracing/notes.tr.md)
+- [Gün 27 — Signal, Crash Analizi, Core Dump ve GDB Backtrace](labs/27-signals-crash-triage-and-gdb/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
