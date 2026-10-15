@@ -38,6 +38,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 26 — Process Creation, fork/exec, waitpid and Runtime Process Tracing](labs/26-process-creation-fork-exec-and-tracing/notes.md)
 - [Day 27 — Signals, Crash Analysis, Core Dumps and GDB Backtraces](labs/27-signals-crash-triage-and-gdb/notes.md)
 - [Day 28 — File Formats, Magic Bytes, Endianness and Parser Tracing](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.md)
+- [Day 29 — Compiler Optimization, Inlining and Control-Flow Analysis](labs/29-compiler-optimization-and-control-flow/notes.md)
 
 ## Learning Approach
 
