@@ -38,6 +38,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 26 — Process Oluşturma, fork/exec, waitpid ve Çalışma Zamanı İzleme](labs/26-process-creation-fork-exec-and-tracing/notes.tr.md)
 - [Gün 27 — Signal, Crash Analizi, Core Dump ve GDB Backtrace](labs/27-signals-crash-triage-and-gdb/notes.tr.md)
 - [Gün 28 — Dosya Formatları, Magic Byte, Endianness ve Parser İzleme](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.tr.md)
+- [Gün 29 — Derleyici Optimizasyonu, Inlining ve Kontrol Akışı](labs/29-compiler-optimization-and-control-flow/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
