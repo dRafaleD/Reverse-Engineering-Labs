@@ -40,6 +40,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 28 — Dosya Formatları, Magic Byte, Endianness ve Parser İzleme](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.tr.md)
 - [Gün 29 — Derleyici Optimizasyonu, Inlining ve Kontrol Akışı](labs/29-compiler-optimization-and-control-flow/notes.tr.md)
 
+- [Gün 30 — ELF Relocation, Semboller ve Çalışma Zamanında Çözümleme](labs/30-elf-relocations-and-symbol-resolution/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
