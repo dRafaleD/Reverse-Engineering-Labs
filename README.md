@@ -40,6 +40,8 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 28 — File Formats, Magic Bytes, Endianness and Parser Tracing](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.md)
 - [Day 29 — Compiler Optimization, Inlining and Control-Flow Analysis](labs/29-compiler-optimization-and-control-flow/notes.md)
 
+- [Day 30 — ELF Relocations, Symbols and Runtime Resolution](labs/30-elf-relocations-and-symbol-resolution/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
