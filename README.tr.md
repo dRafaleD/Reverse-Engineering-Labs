@@ -42,6 +42,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 
 - [Gün 30 — ELF Relocation, Semboller ve Çalışma Zamanında Çözümleme](labs/30-elf-relocations-and-symbol-resolution/notes.tr.md)
 
+- [Gün 31 — Thread, Thread-Local Storage ve GDB ile Thread İzleme](labs/31-31-elf-threading-tls-and-debugger-tracing/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
