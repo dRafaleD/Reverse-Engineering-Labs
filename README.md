@@ -42,6 +42,8 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 30 — ELF Relocations, Symbols and Runtime Resolution](labs/30-elf-relocations-and-symbol-resolution/notes.md)
 
+- [Day 31 — Threads, Thread-Local Storage and GDB Thread Tracing](labs/31-31-elf-threading-tls-and-debugger-tracing/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
