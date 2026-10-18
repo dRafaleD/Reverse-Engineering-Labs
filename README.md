@@ -44,6 +44,8 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 31 — Threads, Thread-Local Storage and GDB Thread Tracing](labs/31-31-elf-threading-tls-and-debugger-tracing/notes.md)
 
+- [Day 32 — Function Prologues, Stack Unwinding and Backtrace Reliability](labs/32-function-prologues-unwinding-and-backtraces/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
