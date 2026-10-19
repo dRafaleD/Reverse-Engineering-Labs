@@ -46,6 +46,8 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 32 — Function Prologues, Stack Unwinding and Backtrace Reliability](labs/32-function-prologues-unwinding-and-backtraces/notes.md)
 
+- [Day 33 — Dynamic Loading, dlopen and Runtime Symbol Resolution](labs/33-dynamic-loading-and-dlsym/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
