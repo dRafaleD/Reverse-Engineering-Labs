@@ -46,6 +46,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 
 - [Gün 32 — Fonksiyon Girişleri, Stack Unwinding ve Backtrace Güvenilirliği](labs/32-function-prologues-unwinding-and-backtraces/notes.tr.md)
 
+- [Gün 33 — Dinamik Yükleme, dlopen ve Sembol Çözümleme](labs/33-dynamic-loading-and-dlsym/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
