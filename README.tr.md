@@ -48,6 +48,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 
 - [Gün 33 — Dinamik Yükleme, dlopen ve Sembol Çözümleme](labs/33-dynamic-loading-and-dlsym/notes.tr.md)
 
+- [Gün 34 — ELF Sembol Görünürlüğü ve Paylaşılan Kütüphane ABI](labs/34-elf-visibility-and-symbol-interposition/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
