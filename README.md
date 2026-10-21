@@ -50,6 +50,8 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 34 — ELF Symbol Visibility and Shared Library ABI](labs/34-elf-visibility-and-symbol-interposition/notes.md)
 
+- [Day 35 — ELF Hardening: PIE, NX, RELRO and Stack Canaries](labs/35-binary-hardening-and-elf-security-flags/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
