@@ -52,6 +52,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 
 - [Gün 35 — ELF Sertleştirme: PIE, NX, RELRO ve Stack Canary](labs/35-binary-hardening-and-elf-security-flags/notes.tr.md)
 
+- [Gün 36 — ELF Build ID, Debug Sembolleri ve Tekrarlanabilir Analiz](labs/36-elf-notes-build-id-and-debug-symbols/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
