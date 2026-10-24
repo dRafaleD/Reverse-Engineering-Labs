@@ -76,3 +76,9 @@ In this repository, I will explore concepts such as:
 - Ghidra and GDB
 
 It serves as both a quick refresher for myself and a guide for others interested in this subject.
+
+
+## Latest lab
+
+- **Day 37 — Calling Conventions and Argument Tracing**
+- [English notes](labs/37-calling-conventions-and-argument-tracing/notes.md) · [Türkçe notlar](labs/37-calling-conventions-and-argument-tracing/notes.tr.md) · [Practical exercise](labs/37-calling-conventions-and-argument-tracing/calls.c)
