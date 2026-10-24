@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 37 — Calling Conventions and Argument Tracing**
-- [English notes](labs/37-calling-conventions-and-argument-tracing/notes.md) · [Türkçe notlar](labs/37-calling-conventions-and-argument-tracing/notes.tr.md) · [Practical exercise](labs/37-calling-conventions-and-argument-tracing/calls.c)
+- **Day 38 — Stack Frames and Local Variable Layout in GDB**
+- [English notes](labs/38-stack-frames-and-local-variable-layout/notes.md) · [Türkçe notlar](labs/38-stack-frames-and-local-variable-layout/notes.tr.md) · [Practical exercise](labs/38-stack-frames-and-local-variable-layout/frames.c)
