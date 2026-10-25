@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 38 — Stack Frames and Local Variable Layout in GDB**
-- [English notes](labs/38-stack-frames-and-local-variable-layout/notes.md) · [Türkçe notlar](labs/38-stack-frames-and-local-variable-layout/notes.tr.md) · [Practical exercise](labs/38-stack-frames-and-local-variable-layout/frames.c)
+- **Day 39 — Conditionals and Branches in Disassembly**
+- [English notes](labs/39-conditionals-and-branches-in-disassembly/notes.md) · [Türkçe notlar](labs/39-conditionals-and-branches-in-disassembly/notes.tr.md) · [Practical exercise](labs/39-conditionals-and-branches-in-disassembly/branches.c)
