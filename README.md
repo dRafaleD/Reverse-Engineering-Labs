@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 40 — Return Values and the RAX Register**
-- [English notes](labs/40-return-values-and-the-rax-register/notes.md) · [Türkçe notlar](labs/40-return-values-and-the-rax-register/notes.tr.md) · [Practical exercise](labs/40-return-values-and-the-rax-register/returns.c)
+- **Day 41 — Loops and Induction Variables in Disassembly**
+- [English notes](labs/41-loops-and-induction-variables-in-disassembly/notes.md) · [Türkçe notlar](labs/41-loops-and-induction-variables-in-disassembly/notes.tr.md) · [Practical exercise](labs/41-loops-and-induction-variables-in-disassembly/loops.c)
