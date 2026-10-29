@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 41 — Loops and Induction Variables in Disassembly**
-- [English notes](labs/41-loops-and-induction-variables-in-disassembly/notes.md) · [Türkçe notlar](labs/41-loops-and-induction-variables-in-disassembly/notes.tr.md) · [Practical exercise](labs/41-loops-and-induction-variables-in-disassembly/loops.c)
+- **Day 42 — Function Pointers and Indirect Calls**
+- [English notes](labs/42-function-pointers-and-indirect-calls/notes.md) · [Türkçe notlar](labs/42-function-pointers-and-indirect-calls/notes.tr.md) · [Practical exercise](labs/42-function-pointers-and-indirect-calls/indirect.c)
