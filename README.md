@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 43 — Struct Return Values: RAX:RDX and Hidden Pointers**
-- [English notes](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.md) · [Türkçe notlar](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.tr.md) · [Practical exercise](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/structret.c)
+- **Day 44 — String Comparison Loops in Disassembly**
+- [English notes](labs/44-string-comparison-loops-in-disassembly/notes.md) · [Türkçe notlar](labs/44-string-comparison-loops-in-disassembly/notes.tr.md) · [Practical exercise](labs/44-string-comparison-loops-in-disassembly/streq.c)
