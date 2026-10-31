@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 45 — Stack Protector Canary in Prologue and Epilogue**
-- [English notes](labs/45-stack-protector-canary-in-prologue-and-epilogue/notes.md) · [Türkçe notlar](labs/45-stack-protector-canary-in-prologue-and-epilogue/notes.tr.md) · [Practical exercise](labs/45-stack-protector-canary-in-prologue-and-epilogue/canary.c)
+- **Day 46 — Switch Statements: Jump Tables Versus Compare Chains**
+- [English notes](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.md) · [Türkçe notlar](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.tr.md) · [Practical exercise](labs/46-switch-statements-jump-tables-versus-compare-chains/switch_forms.c)
