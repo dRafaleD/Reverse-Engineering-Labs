@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 48 — Bounds Checks and Signed Versus Unsigned Compares**
-- [English notes](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.md) · [Türkçe notlar](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.tr.md) · [Practical exercise](labs/48-bounds-checks-and-signed-versus-unsigned-compares/bounds.c)
+- **Day 49 — Tail Calls: jmp Instead of call**
+- [English notes](labs/49-tail-calls-and-jmp-instead-of-call/notes.md) · [Türkçe notlar](labs/49-tail-calls-and-jmp-instead-of-call/notes.tr.md) · [Practical exercise](labs/49-tail-calls-and-jmp-instead-of-call/tailcall.c)
