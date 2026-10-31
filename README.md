@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 42 — Function Pointers and Indirect Calls**
-- [English notes](labs/42-function-pointers-and-indirect-calls/notes.md) · [Türkçe notlar](labs/42-function-pointers-and-indirect-calls/notes.tr.md) · [Practical exercise](labs/42-function-pointers-and-indirect-calls/indirect.c)
+- **Day 43 — Struct Return Values: RAX:RDX and Hidden Pointers**
+- [English notes](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.md) · [Türkçe notlar](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.tr.md) · [Practical exercise](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/structret.c)
