@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 47 — Division by Constants and Magic Multiplication**
-- [English notes](labs/47-division-by-constants-and-magic-multiplication/notes.md) · [Türkçe notlar](labs/47-division-by-constants-and-magic-multiplication/notes.tr.md) · [Practical exercise](labs/47-division-by-constants-and-magic-multiplication/divconst.c)
+- **Day 48 — Bounds Checks and Signed Versus Unsigned Compares**
+- [English notes](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.md) · [Türkçe notlar](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.tr.md) · [Practical exercise](labs/48-bounds-checks-and-signed-versus-unsigned-compares/bounds.c)
