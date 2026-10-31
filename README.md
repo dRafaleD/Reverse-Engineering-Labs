@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 46 — Switch Statements: Jump Tables Versus Compare Chains**
-- [English notes](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.md) · [Türkçe notlar](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.tr.md) · [Practical exercise](labs/46-switch-statements-jump-tables-versus-compare-chains/switch_forms.c)
+- **Day 47 — Division by Constants and Magic Multiplication**
+- [English notes](labs/47-division-by-constants-and-magic-multiplication/notes.md) · [Türkçe notlar](labs/47-division-by-constants-and-magic-multiplication/notes.tr.md) · [Practical exercise](labs/47-division-by-constants-and-magic-multiplication/divconst.c)
