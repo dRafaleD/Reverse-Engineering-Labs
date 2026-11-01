@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 49 — Tail Calls: jmp Instead of call**
-- [English notes](labs/49-tail-calls-and-jmp-instead-of-call/notes.md) · [Türkçe notlar](labs/49-tail-calls-and-jmp-instead-of-call/notes.tr.md) · [Practical exercise](labs/49-tail-calls-and-jmp-instead-of-call/tailcall.c)
+- **Day 50 — Variadic Calls and the AL Register**
+- [English notes](labs/50-variadic-calls-and-the-al-register/notes.md) · [Türkçe notlar](labs/50-variadic-calls-and-the-al-register/notes.tr.md) · [Practical exercise](labs/50-variadic-calls-and-the-al-register/variadic.c)
