@@ -39,20 +39,29 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 27 — Signals, Crash Analysis, Core Dumps and GDB Backtraces](labs/27-signals-crash-triage-and-gdb/notes.md)
 - [Day 28 — File Formats, Magic Bytes, Endianness and Parser Tracing](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.md)
 - [Day 29 — Compiler Optimization, Inlining and Control-Flow Analysis](labs/29-compiler-optimization-and-control-flow/notes.md)
-
 - [Day 30 — ELF Relocations, Symbols and Runtime Resolution](labs/30-elf-relocations-and-symbol-resolution/notes.md)
-
 - [Day 31 — Threads, Thread-Local Storage and GDB Thread Tracing](labs/31-31-elf-threading-tls-and-debugger-tracing/notes.md)
-
 - [Day 32 — Function Prologues, Stack Unwinding and Backtrace Reliability](labs/32-function-prologues-unwinding-and-backtraces/notes.md)
-
 - [Day 33 — Dynamic Loading, dlopen and Runtime Symbol Resolution](labs/33-dynamic-loading-and-dlsym/notes.md)
-
 - [Day 34 — ELF Symbol Visibility and Shared Library ABI](labs/34-elf-visibility-and-symbol-interposition/notes.md)
-
 - [Day 35 — ELF Hardening: PIE, NX, RELRO and Stack Canaries](labs/35-binary-hardening-and-elf-security-flags/notes.md)
-
 - [Day 36 — ELF Build IDs, Debug Symbols and Reproducible Analysis](labs/36-elf-notes-build-id-and-debug-symbols/notes.md)
+- [Day 37 — Calling Conventions And Argument Tracing](labs/37-calling-conventions-and-argument-tracing/notes.md)
+- [Day 38 — Stack Frames And Local Variable Layout](labs/38-stack-frames-and-local-variable-layout/notes.md)
+- [Bonus — Day 38 — Stack Frames And Local Variable Lifetimes](labs/38-stack-frames-and-local-variable-lifetimes/notes.md)
+- [Day 39 — Conditionals And Branches In Disassembly](labs/39-conditionals-and-branches-in-disassembly/notes.md)
+- [Day 40 — Return Values And The RAX Register](labs/40-return-values-and-the-rax-register/notes.md)
+- [Day 41 — Loops And Induction Variables In Disassembly](labs/41-loops-and-induction-variables-in-disassembly/notes.md)
+- [Day 42 — Function Pointers And Indirect Calls](labs/42-function-pointers-and-indirect-calls/notes.md)
+- [Day 43 — Struct Return Values RAX RDX And Hidden Pointers](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.md)
+- [Day 44 — String Comparison Loops In Disassembly](labs/44-string-comparison-loops-in-disassembly/notes.md)
+- [Day 45 — Stack Protector Canary In Prologue And Epilogue](labs/45-stack-protector-canary-in-prologue-and-epilogue/notes.md)
+- [Day 46 — Switch Statements Jump Tables Versus Compare Chains](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.md)
+- [Day 47 — Division By Constants And Magic Multiplication](labs/47-division-by-constants-and-magic-multiplication/notes.md)
+- [Day 48 — Bounds Checks And Signed Versus Unsigned Compares](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.md)
+- [Day 49 — Tail Calls And Jmp Instead Of Call](labs/49-tail-calls-and-jmp-instead-of-call/notes.md)
+- [Day 50 — Variadic Calls And The Al Register](labs/50-variadic-calls-and-the-al-register/notes.md)
+- [Day 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.md)
 
 ## Learning Approach
 
@@ -83,6 +92,3 @@ It serves as both a quick refresher for myself and a guide for others interested
 - **Day 51 — String Literals and the .rodata Section**
 - [English notes](labs/51-string-literals-and-the-rodata-section/notes.md) · [Türkçe notlar](labs/51-string-literals-and-the-rodata-section/notes.tr.md) · [Practical exercise](labs/51-string-literals-and-the-rodata-section/rodata.c)
 
-### Day 38 — Stack Frames and Local Variable Lifetimes
-
-[English notes](labs/38-stack-frames-and-local-variable-lifetimes/notes.md) · [Türkçe notlar](labs/38-stack-frames-and-local-variable-lifetimes/notes.tr.md) · [C exercise](labs/38-stack-frames-and-local-variable-lifetimes/frames.c)
