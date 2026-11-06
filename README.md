@@ -82,3 +82,7 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 - **Day 51 — String Literals and the .rodata Section**
 - [English notes](labs/51-string-literals-and-the-rodata-section/notes.md) · [Türkçe notlar](labs/51-string-literals-and-the-rodata-section/notes.tr.md) · [Practical exercise](labs/51-string-literals-and-the-rodata-section/rodata.c)
+
+### Day 38 — Stack Frames and Local Variable Lifetimes
+
+[English notes](labs/38-stack-frames-and-local-variable-lifetimes/notes.md) · [Türkçe notlar](labs/38-stack-frames-and-local-variable-lifetimes/notes.tr.md) · [C exercise](labs/38-stack-frames-and-local-variable-lifetimes/frames.c)
