@@ -39,20 +39,29 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 27 — Signal, Crash Analizi, Core Dump ve GDB Backtrace](labs/27-signals-crash-triage-and-gdb/notes.tr.md)
 - [Gün 28 — Dosya Formatları, Magic Byte, Endianness ve Parser İzleme](labs/28-file-formats-magic-bytes-and-parser-tracing/notes.tr.md)
 - [Gün 29 — Derleyici Optimizasyonu, Inlining ve Kontrol Akışı](labs/29-compiler-optimization-and-control-flow/notes.tr.md)
-
 - [Gün 30 — ELF Relocation, Semboller ve Çalışma Zamanında Çözümleme](labs/30-elf-relocations-and-symbol-resolution/notes.tr.md)
-
 - [Gün 31 — Thread, Thread-Local Storage ve GDB ile Thread İzleme](labs/31-31-elf-threading-tls-and-debugger-tracing/notes.tr.md)
-
 - [Gün 32 — Fonksiyon Girişleri, Stack Unwinding ve Backtrace Güvenilirliği](labs/32-function-prologues-unwinding-and-backtraces/notes.tr.md)
-
 - [Gün 33 — Dinamik Yükleme, dlopen ve Sembol Çözümleme](labs/33-dynamic-loading-and-dlsym/notes.tr.md)
-
 - [Gün 34 — ELF Sembol Görünürlüğü ve Paylaşılan Kütüphane ABI](labs/34-elf-visibility-and-symbol-interposition/notes.tr.md)
-
 - [Gün 35 — ELF Sertleştirme: PIE, NX, RELRO ve Stack Canary](labs/35-binary-hardening-and-elf-security-flags/notes.tr.md)
-
 - [Gün 36 — ELF Build ID, Debug Sembolleri ve Tekrarlanabilir Analiz](labs/36-elf-notes-build-id-and-debug-symbols/notes.tr.md)
+- [Gün 37 — Calling Conventions And Argument Tracing](labs/37-calling-conventions-and-argument-tracing/notes.tr.md)
+- [Gün 38 — Stack Frames And Local Variable Layout](labs/38-stack-frames-and-local-variable-layout/notes.tr.md)
+- [Ek çalışma — Gün 38 — Stack Frames And Local Variable Lifetimes](labs/38-stack-frames-and-local-variable-lifetimes/notes.tr.md)
+- [Gün 39 — Conditionals And Branches In Disassembly](labs/39-conditionals-and-branches-in-disassembly/notes.tr.md)
+- [Gün 40 — Return Values And The RAX Register](labs/40-return-values-and-the-rax-register/notes.tr.md)
+- [Gün 41 — Loops And Induction Variables In Disassembly](labs/41-loops-and-induction-variables-in-disassembly/notes.tr.md)
+- [Gün 42 — Function Pointers And Indirect Calls](labs/42-function-pointers-and-indirect-calls/notes.tr.md)
+- [Gün 43 — Struct Return Values RAX RDX And Hidden Pointers](labs/43-struct-return-values-rax-rdx-and-hidden-pointers/notes.tr.md)
+- [Gün 44 — String Comparison Loops In Disassembly](labs/44-string-comparison-loops-in-disassembly/notes.tr.md)
+- [Gün 45 — Stack Protector Canary In Prologue And Epilogue](labs/45-stack-protector-canary-in-prologue-and-epilogue/notes.tr.md)
+- [Gün 46 — Switch Statements Jump Tables Versus Compare Chains](labs/46-switch-statements-jump-tables-versus-compare-chains/notes.tr.md)
+- [Gün 47 — Division By Constants And Magic Multiplication](labs/47-division-by-constants-and-magic-multiplication/notes.tr.md)
+- [Gün 48 — Bounds Checks And Signed Versus Unsigned Compares](labs/48-bounds-checks-and-signed-versus-unsigned-compares/notes.tr.md)
+- [Gün 49 — Tail Calls And Jmp Instead Of Call](labs/49-tail-calls-and-jmp-instead-of-call/notes.tr.md)
+- [Gün 50 — Variadic Calls And The Al Register](labs/50-variadic-calls-and-the-al-register/notes.tr.md)
+- [Gün 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
