@@ -80,5 +80,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 50 — Variadic Calls and the AL Register**
-- [English notes](labs/50-variadic-calls-and-the-al-register/notes.md) · [Türkçe notlar](labs/50-variadic-calls-and-the-al-register/notes.tr.md) · [Practical exercise](labs/50-variadic-calls-and-the-al-register/variadic.c)
+- **Day 51 — String Literals and the .rodata Section**
+- [English notes](labs/51-string-literals-and-the-rodata-section/notes.md) · [Türkçe notlar](labs/51-string-literals-and-the-rodata-section/notes.tr.md) · [Practical exercise](labs/51-string-literals-and-the-rodata-section/rodata.c)
