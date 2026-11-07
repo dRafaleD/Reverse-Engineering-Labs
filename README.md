@@ -62,6 +62,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 49 — Tail Calls And Jmp Instead Of Call](labs/49-tail-calls-and-jmp-instead-of-call/notes.md)
 - [Day 50 — Variadic Calls And The Al Register](labs/50-variadic-calls-and-the-al-register/notes.md)
 - [Day 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.md)
+- [Day 52 — Binary String References and Cross-References](labs/52-binary-string-references-and-xrefs/notes.md)
 
 ## Learning Approach
 
@@ -89,6 +90,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 51 — String Literals and the .rodata Section**
-- [English notes](labs/51-string-literals-and-the-rodata-section/notes.md) · [Türkçe notlar](labs/51-string-literals-and-the-rodata-section/notes.tr.md) · [Practical exercise](labs/51-string-literals-and-the-rodata-section/rodata.c)
-
+- **Day 52 — Binary String References and Cross-References**
+- [English notes](labs/52-binary-string-references-and-xrefs/notes.md) · [Türkçe notlar](labs/52-binary-string-references-and-xrefs/notes.tr.md) · [Practical exercise](labs/52-binary-string-references-and-xrefs/xrefs.c)
