@@ -63,6 +63,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 50 — Variadic Calls And The Al Register](labs/50-variadic-calls-and-the-al-register/notes.tr.md)
 - [Gün 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.tr.md)
 - [Gün 52 — Binary Dizgeleri ve Çapraz Referanslar](labs/52-binary-string-references-and-xrefs/notes.tr.md)
+- [Gün 53 — String Karşılaştırmaları ve Çalışma Zamanı Dal Kanıtı](labs/53-string-comparisons-and-runtime-branch-evidence/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
