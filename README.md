@@ -63,6 +63,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 50 — Variadic Calls And The Al Register](labs/50-variadic-calls-and-the-al-register/notes.md)
 - [Day 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.md)
 - [Day 52 — Binary String References and Cross-References](labs/52-binary-string-references-and-xrefs/notes.md)
+- [Day 53 — String Comparisons and Runtime Branch Evidence](labs/53-string-comparisons-and-runtime-branch-evidence/notes.md)
 
 ## Learning Approach
 
@@ -90,5 +91,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 52 — Binary String References and Cross-References**
-- [English notes](labs/52-binary-string-references-and-xrefs/notes.md) · [Türkçe notlar](labs/52-binary-string-references-and-xrefs/notes.tr.md) · [Practical exercise](labs/52-binary-string-references-and-xrefs/xrefs.c)
+- **Day 53 — String Comparisons and Runtime Branch Evidence**
+- [English notes](labs/53-string-comparisons-and-runtime-branch-evidence/notes.md) · [Türkçe notlar](labs/53-string-comparisons-and-runtime-branch-evidence/notes.tr.md) · [C exercise](labs/53-string-comparisons-and-runtime-branch-evidence/branches.c)
