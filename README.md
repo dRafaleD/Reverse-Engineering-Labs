@@ -64,6 +64,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 51 — String Literals And The Rodata Section](labs/51-string-literals-and-the-rodata-section/notes.md)
 - [Day 52 — Binary String References and Cross-References](labs/52-binary-string-references-and-xrefs/notes.md)
 - [Day 53 — String Comparisons and Runtime Branch Evidence](labs/53-string-comparisons-and-runtime-branch-evidence/notes.md)
+- [Day 54 — State Machine and Transition Reconstruction](labs/54-state-machines-and-transition-reconstruction/notes.md)
 
 ## Learning Approach
 
@@ -91,5 +92,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 53 — String Comparisons and Runtime Branch Evidence**
-- [English notes](labs/53-string-comparisons-and-runtime-branch-evidence/notes.md) · [Türkçe notlar](labs/53-string-comparisons-and-runtime-branch-evidence/notes.tr.md) · [C exercise](labs/53-string-comparisons-and-runtime-branch-evidence/branches.c)
+- **Day 54 — State Machines and Transition Reconstruction**
+- [English notes](labs/54-state-machines-and-transition-reconstruction/notes.md) · [Türkçe notlar](labs/54-state-machines-and-transition-reconstruction/notes.tr.md) · [C exercise](labs/54-state-machines-and-transition-reconstruction/states.c)
