@@ -65,6 +65,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 52 — Binary Dizgeleri ve Çapraz Referanslar](labs/52-binary-string-references-and-xrefs/notes.tr.md)
 - [Gün 53 — String Karşılaştırmaları ve Çalışma Zamanı Dal Kanıtı](labs/53-string-comparisons-and-runtime-branch-evidence/notes.tr.md)
 - [Gün 54 — Durum Makinesi ve Geçiş Analizi](labs/54-state-machines-and-transition-reconstruction/notes.tr.md)
+- [Gün 55 — Durum Makinesi ve Geçiş Test Kapsamı](labs/55-state-machine-invariants-and-transition-coverage/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
