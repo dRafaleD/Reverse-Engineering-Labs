@@ -66,6 +66,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 53 — String Comparisons and Runtime Branch Evidence](labs/53-string-comparisons-and-runtime-branch-evidence/notes.md)
 - [Day 54 — State Machine and Transition Reconstruction](labs/54-state-machines-and-transition-reconstruction/notes.md)
 - [Day 55 — State Machine Invariants and Transition Coverage](labs/55-state-machine-invariants-and-transition-coverage/notes.md)
+- [Day 56 — Error Transitions and Recovery Paths](labs/56-error-transitions-and-recovery-paths/notes.md)
 
 ## Learning Approach
 
@@ -93,5 +94,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 55 — State Machine Invariants and Transition Coverage**
-- [English notes](labs/55-state-machine-invariants-and-transition-coverage/notes.md) · [Türkçe notlar](labs/55-state-machine-invariants-and-transition-coverage/notes.tr.md) · [C exercise](labs/55-state-machine-invariants-and-transition-coverage/transition_tests.c)
+- **Day 56 — Error Transitions and Recovery Paths**
+- [English notes](labs/56-error-transitions-and-recovery-paths/notes.md) · [Türkçe notlar](labs/56-error-transitions-and-recovery-paths/notes.tr.md) · [C exercise](labs/56-error-transitions-and-recovery-paths/recovery.c)
