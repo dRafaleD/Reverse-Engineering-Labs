@@ -68,6 +68,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 55 — Durum Makinesi ve Geçiş Test Kapsamı](labs/55-state-machine-invariants-and-transition-coverage/notes.tr.md)
 - [Gün 56 — Hata Geçişleri ve Kurtarma Yolları](labs/56-error-transitions-and-recovery-paths/notes.tr.md)
 
+- [Gün 57 — Durum Geçişleri, Yan Etkiler ve Değişiklik Noktaları](labs/57-state-transitions-side-effects-and-commit-points/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.

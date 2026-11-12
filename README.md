@@ -68,6 +68,8 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 55 — State Machine Invariants and Transition Coverage](labs/55-state-machine-invariants-and-transition-coverage/notes.md)
 - [Day 56 — Error Transitions and Recovery Paths](labs/56-error-transitions-and-recovery-paths/notes.md)
 
+- [Day 57 — State Transitions, Side Effects and Commit Points](labs/57-state-transitions-side-effects-and-commit-points/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
@@ -94,5 +96,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 56 — Error Transitions and Recovery Paths**
-- [English notes](labs/56-error-transitions-and-recovery-paths/notes.md) · [Türkçe notlar](labs/56-error-transitions-and-recovery-paths/notes.tr.md) · [C exercise](labs/56-error-transitions-and-recovery-paths/recovery.c)
+- **Day 57 — State Transitions, Side Effects and Commit Points**
+- [English notes](labs/57-state-transitions-side-effects-and-commit-points/notes.md) · [Türkçe notlar](labs/57-state-transitions-side-effects-and-commit-points/notes.tr.md) · [C exercise](labs/57-state-transitions-side-effects-and-commit-points/transition_side_effects.c)
