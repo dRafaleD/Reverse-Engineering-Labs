@@ -70,6 +70,8 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 
 - [Gün 57 — Durum Geçişleri, Yan Etkiler ve Değişiklik Noktaları](labs/57-state-transitions-side-effects-and-commit-points/notes.tr.md)
 
+- [Gün 58 — Pointer Aliasing ve Yerinde Veri Değişikliklerini İzleme](labs/58-pointer-aliasing-and-in-place-mutations/notes.tr.md)
+
 ## Reverse Engineering Nedir?
 
 Reverse engineering, kaynak koduna erişmeden derlenmiş bir programın yapısını, davranışını ve iç mantığını analiz ederek anlamaya çalışma sürecidir.
