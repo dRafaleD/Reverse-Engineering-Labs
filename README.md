@@ -70,6 +70,8 @@ The goal is to understand how compiled programs work internally by exploring top
 
 - [Day 57 — State Transitions, Side Effects and Commit Points](labs/57-state-transitions-side-effects-and-commit-points/notes.md)
 
+- [Day 58 — Pointer Aliasing and In-Place Mutation Tracing](labs/58-pointer-aliasing-and-in-place-mutations/notes.md)
+
 ## Learning Approach
 
 Each lab starts with a small C example, then connects the source code to the compiled binary through tools such as Ghidra. The focus is on recognizing patterns gradually instead of memorizing assembly instructions all at once.
@@ -96,5 +98,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 57 — State Transitions, Side Effects and Commit Points**
-- [English notes](labs/57-state-transitions-side-effects-and-commit-points/notes.md) · [Türkçe notlar](labs/57-state-transitions-side-effects-and-commit-points/notes.tr.md) · [C exercise](labs/57-state-transitions-side-effects-and-commit-points/transition_side_effects.c)
+- **Day 58 — Pointer Aliasing and In-Place Mutation Tracing**
+- [English notes](labs/58-pointer-aliasing-and-in-place-mutations/notes.md) · [Türkçe notlar](labs/58-pointer-aliasing-and-in-place-mutations/notes.tr.md) · [Practice](labs/58-pointer-aliasing-and-in-place-mutations/aliasing.c)
