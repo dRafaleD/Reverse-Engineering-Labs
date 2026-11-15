@@ -71,6 +71,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 57 — State Transitions, Side Effects and Commit Points](labs/57-state-transitions-side-effects-and-commit-points/notes.md)
 
 - [Day 58 — Pointer Aliasing and In-Place Mutation Tracing](labs/58-pointer-aliasing-and-in-place-mutations/notes.md)
+- [Day 59 — Pointer Chains, Field Offsets and Alias Tracing](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.md)
 
 ## Learning Approach
 
@@ -98,5 +99,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 58 — Pointer Aliasing and In-Place Mutation Tracing**
-- [English notes](labs/58-pointer-aliasing-and-in-place-mutations/notes.md) · [Türkçe notlar](labs/58-pointer-aliasing-and-in-place-mutations/notes.tr.md) · [Practice](labs/58-pointer-aliasing-and-in-place-mutations/aliasing.c)
+- **Day 59 — Pointer Chains, Field Offsets and Alias Tracing**
+- [English notes](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.md) · [Türkçe notlar](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.tr.md) · [C exercise](labs/59-pointer-chains-field-offsets-and-alias-tracing/pointer_chain.c)
