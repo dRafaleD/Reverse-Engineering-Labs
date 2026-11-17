@@ -49,6 +49,6 @@ int main(void) {
     assert(write_value(&renewed, 40u) && slot.value == 40u);
     slot.active = false;
     assert(!read_value(&renewed, &output) && output == 30u);
-    puts("10/10 generation and capability cases passed");
+    puts("11/11 generation and capability cases passed");
     return 0;
 }
