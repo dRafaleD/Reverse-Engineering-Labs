@@ -73,6 +73,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 58 — Pointer Aliasing and In-Place Mutation Tracing](labs/58-pointer-aliasing-and-in-place-mutations/notes.md)
 - [Day 59 — Pointer Chains, Field Offsets and Alias Tracing](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.md)
 - [Day 60 — Pointer Lifetime and Generation-Checked Handles](labs/60-pointer-lifetime-and-generation-checked-handles/notes.md)
+- [Day 61 — Generation-Checked Handles and Capability Rights](labs/61-generation-handles-and-capability-rights/notes.md)
 
 ## Learning Approach
 
@@ -100,5 +101,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 60 — Pointer Lifetime and Generation-Checked Handles**
-- [English notes](labs/60-pointer-lifetime-and-generation-checked-handles/notes.md) · [Türkçe notlar](labs/60-pointer-lifetime-and-generation-checked-handles/notes.tr.md) · [C exercise](labs/60-pointer-lifetime-and-generation-checked-handles/generation_handles.c)
+- **Day 61 — Generation-Checked Handles and Capability Rights**
+- [English notes](labs/61-generation-handles-and-capability-rights/notes.md) · [Türkçe notlar](labs/61-generation-handles-and-capability-rights/notes.tr.md) · [C fixture](labs/61-generation-handles-and-capability-rights/capability_handles.c)

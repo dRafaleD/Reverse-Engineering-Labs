@@ -73,6 +73,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 58 — Pointer Aliasing ve Yerinde Veri Değişikliklerini İzleme](labs/58-pointer-aliasing-and-in-place-mutations/notes.tr.md)
 - [Gün 59 — Pointer Zincirleri, Alan Ofsetleri ve Alias Analizi](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.tr.md)
 - [Gün 60 — Pointer Ömrü ve Nesil Kontrollü Handle](labs/60-pointer-lifetime-and-generation-checked-handles/notes.tr.md)
+- [Gün 61 — Nesil Kontrollü Handle ve Yetki Bitleri](labs/61-generation-handles-and-capability-rights/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
