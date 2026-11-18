@@ -74,6 +74,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 59 — Pointer Chains, Field Offsets and Alias Tracing](labs/59-pointer-chains-field-offsets-and-alias-tracing/notes.md)
 - [Day 60 — Pointer Lifetime and Generation-Checked Handles](labs/60-pointer-lifetime-and-generation-checked-handles/notes.md)
 - [Day 61 — Generation-Checked Handles and Capability Rights](labs/61-generation-handles-and-capability-rights/notes.md)
+- [Day 62 — Policy Epochs and Capability Revocation](labs/62-policy-epochs-and-capability-revocation/notes.md)
 
 ## Learning Approach
 
@@ -101,5 +102,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 61 — Generation-Checked Handles and Capability Rights**
-- [English notes](labs/61-generation-handles-and-capability-rights/notes.md) · [Türkçe notlar](labs/61-generation-handles-and-capability-rights/notes.tr.md) · [C fixture](labs/61-generation-handles-and-capability-rights/capability_handles.c)
+- **Day 62 — Policy Epochs and Capability Revocation**
+- [English notes](labs/62-policy-epochs-and-capability-revocation/notes.md) · [Türkçe notlar](labs/62-policy-epochs-and-capability-revocation/notes.tr.md) · [C fixture](labs/62-policy-epochs-and-capability-revocation/policy_epochs.c)
