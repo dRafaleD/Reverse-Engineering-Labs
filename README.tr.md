@@ -75,6 +75,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 60 — Pointer Ömrü ve Nesil Kontrollü Handle](labs/60-pointer-lifetime-and-generation-checked-handles/notes.tr.md)
 - [Gün 61 — Nesil Kontrollü Handle ve Yetki Bitleri](labs/61-generation-handles-and-capability-rights/notes.tr.md)
 - [Gün 62 — Politika Sürümü ve Handle Yetki İptali](labs/62-policy-epochs-and-capability-revocation/notes.tr.md)
+- [Gün 63 — Yetkileri Daraltarak Güvenli Handle Devretme](labs/63-capability-attenuation-and-safe-delegation/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 

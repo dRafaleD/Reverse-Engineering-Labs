@@ -75,6 +75,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 60 — Pointer Lifetime and Generation-Checked Handles](labs/60-pointer-lifetime-and-generation-checked-handles/notes.md)
 - [Day 61 — Generation-Checked Handles and Capability Rights](labs/61-generation-handles-and-capability-rights/notes.md)
 - [Day 62 — Policy Epochs and Capability Revocation](labs/62-policy-epochs-and-capability-revocation/notes.md)
+- [Day 63 — Capability Attenuation and Safe Delegation](labs/63-capability-attenuation-and-safe-delegation/notes.md)
 
 ## Learning Approach
 
@@ -102,5 +103,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 62 — Policy Epochs and Capability Revocation**
-- [English notes](labs/62-policy-epochs-and-capability-revocation/notes.md) · [Türkçe notlar](labs/62-policy-epochs-and-capability-revocation/notes.tr.md) · [C fixture](labs/62-policy-epochs-and-capability-revocation/policy_epochs.c)
+- **Day 63 — Capability Attenuation and Safe Delegation**
+- [English notes](labs/63-capability-attenuation-and-safe-delegation/notes.md) · [Türkçe notlar](labs/63-capability-attenuation-and-safe-delegation/notes.tr.md) · [C fixture](labs/63-capability-attenuation-and-safe-delegation/delegation.c)
