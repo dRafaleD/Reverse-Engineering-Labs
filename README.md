@@ -76,6 +76,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 61 — Generation-Checked Handles and Capability Rights](labs/61-generation-handles-and-capability-rights/notes.md)
 - [Day 62 — Policy Epochs and Capability Revocation](labs/62-policy-epochs-and-capability-revocation/notes.md)
 - [Day 63 — Capability Attenuation and Safe Delegation](labs/63-capability-attenuation-and-safe-delegation/notes.md)
+- [Day 64 — Capability Resource Scopes and Delegation](labs/64-capability-resource-scopes-and-delegation/notes.md)
 
 ## Learning Approach
 
@@ -103,5 +104,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 63 — Capability Attenuation and Safe Delegation**
-- [English notes](labs/63-capability-attenuation-and-safe-delegation/notes.md) · [Türkçe notlar](labs/63-capability-attenuation-and-safe-delegation/notes.tr.md) · [C fixture](labs/63-capability-attenuation-and-safe-delegation/delegation.c)
+- **Day 64 — Capability Resource Scopes and Delegation**
+- [English notes](labs/64-capability-resource-scopes-and-delegation/notes.md) · [Türkçe notlar](labs/64-capability-resource-scopes-and-delegation/notes.tr.md) · [C exercise](labs/64-capability-resource-scopes-and-delegation/scoped_handles.c)

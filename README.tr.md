@@ -76,6 +76,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 61 — Nesil Kontrollü Handle ve Yetki Bitleri](labs/61-generation-handles-and-capability-rights/notes.tr.md)
 - [Gün 62 — Politika Sürümü ve Handle Yetki İptali](labs/62-policy-epochs-and-capability-revocation/notes.tr.md)
 - [Gün 63 — Yetkileri Daraltarak Güvenli Handle Devretme](labs/63-capability-attenuation-and-safe-delegation/notes.tr.md)
+- [Gün 64 — Capability Kaynak Kapsamı ve Yetki Devri](labs/64-capability-resource-scopes-and-delegation/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
