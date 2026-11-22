@@ -78,6 +78,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 63 — Capability Attenuation and Safe Delegation](labs/63-capability-attenuation-and-safe-delegation/notes.md)
 - [Day 64 — Capability Resource Scopes and Delegation](labs/64-capability-resource-scopes-and-delegation/notes.md)
 - [Day 65 — Delegation Depth and Transitive Revocation](labs/65-delegation-depth-and-transitive-revocation/notes.md)
+- [Day 66 — Branch-Scoped Capability Revocation](labs/66-branch-scoped-capability-revocation/notes.md)
 
 ## Learning Approach
 
@@ -105,5 +106,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 65 — Delegation Depth and Transitive Revocation**
-- [English notes](labs/65-delegation-depth-and-transitive-revocation/notes.md) · [Türkçe notlar](labs/65-delegation-depth-and-transitive-revocation/notes.tr.md) · [C fixture](labs/65-delegation-depth-and-transitive-revocation/delegation_tree.c)
+- **Day 66 — Branch-Scoped Capability Revocation**
+- [English notes](labs/66-branch-scoped-capability-revocation/notes.md) · [Türkçe notlar](labs/66-branch-scoped-capability-revocation/notes.tr.md) · [C fixture](labs/66-branch-scoped-capability-revocation/branch_revoke.c)
