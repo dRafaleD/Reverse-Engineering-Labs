@@ -80,6 +80,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 65 — Çok Aşamalı Yetki Devri ve Zincirleme İptal](labs/65-delegation-depth-and-transitive-revocation/notes.tr.md)
 - [Gün 66 — Dal Bazlı Capability Yetki İptali](labs/66-branch-scoped-capability-revocation/notes.tr.md)
 - [Gün 67 — Üst Dal Epoch ve Hiyerarşik Yetki İptali](labs/67-hierarchical-revocation-and-ancestor-epochs/notes.tr.md)
+- [Gün 68 — Değişmez Dal Kimliği ve Eski Handle İptali](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 

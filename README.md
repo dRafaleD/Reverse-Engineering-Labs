@@ -80,6 +80,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 65 — Delegation Depth and Transitive Revocation](labs/65-delegation-depth-and-transitive-revocation/notes.md)
 - [Day 66 — Branch-Scoped Capability Revocation](labs/66-branch-scoped-capability-revocation/notes.md)
 - [Day 67 — Hierarchical Revocation and Ancestor Epochs](labs/67-hierarchical-revocation-and-ancestor-epochs/notes.md)
+- [Day 68 — Immutable Branch Incarnations and Stale Handle Rejection](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.md)
 
 ## Learning Approach
 
@@ -107,5 +108,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 67 — Hierarchical Revocation and Ancestor Epochs**
-- [English notes](labs/67-hierarchical-revocation-and-ancestor-epochs/notes.md) · [Türkçe notlar](labs/67-hierarchical-revocation-and-ancestor-epochs/notes.tr.md) · [C fixture](labs/67-hierarchical-revocation-and-ancestor-epochs/ancestor_epochs.c)
+- **Day 68 — Immutable Branch Incarnations and Stale Handle Rejection**
+- [English notes](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.md) · [Türkçe notlar](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.tr.md) · [Exercise](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/branch_incarnation.c)
