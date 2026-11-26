@@ -83,6 +83,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 68 — Değişmez Dal Kimliği ve Eski Handle İptali](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.tr.md)
 - [Gün 69 — Uygulama Günü: İkili Kayıt Ayrıştırma ve Sınır Kontrolü](labs/69-binary-record-parsing-practice/notes.tr.md)
 - [Gün 70 — Kayıt Durum Makinesi ve Geçiş Doğrulama](labs/70-record-state-machines-and-transition-validation/notes.tr.md)
+- [Gün 71 — İşlemsel Kayıt Ayrıştırma ve Çıktı Bütünlüğü](labs/71-transactional-record-parsing/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
