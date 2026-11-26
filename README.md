@@ -82,6 +82,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 67 — Hierarchical Revocation and Ancestor Epochs](labs/67-hierarchical-revocation-and-ancestor-epochs/notes.md)
 - [Day 68 — Immutable Branch Incarnations and Stale Handle Rejection](labs/68-immutable-branch-incarnations-and-stale-handle-rejection/notes.md)
 - [Day 69 — Practice Day: Binary Record Parsing and Bounds Checks](labs/69-binary-record-parsing-practice/notes.md)
+- [Day 70 — Record State Machines and Transition Validation](labs/70-record-state-machines-and-transition-validation/notes.md)
 
 ## Learning Approach
 
@@ -109,5 +110,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 69 — Practice Day: Binary Record Parsing and Bounds Checks**
-- [English notes](labs/69-binary-record-parsing-practice/notes.md) · [Türkçe notlar](labs/69-binary-record-parsing-practice/notes.tr.md) · [Exercise](labs/69-binary-record-parsing-practice/record_parser.c)
+- **Day 70 — Record State Machines and Transition Validation**
+- [English notes](labs/70-record-state-machines-and-transition-validation/notes.md) · [Türkçe notlar](labs/70-record-state-machines-and-transition-validation/notes.tr.md) · [Exercise](labs/70-record-state-machines-and-transition-validation/state_machine.c)
