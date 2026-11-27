@@ -84,6 +84,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 69 — Practice Day: Binary Record Parsing and Bounds Checks](labs/69-binary-record-parsing-practice/notes.md)
 - [Day 70 — Record State Machines and Transition Validation](labs/70-record-state-machines-and-transition-validation/notes.md)
 - [Day 71 — Transactional Record Parsing and Output Integrity](labs/71-transactional-record-parsing/notes.md)
+- [Day 72 — Signedness and Explicit Byte Decoding](labs/72-signedness-and-explicit-byte-decoding/notes.md)
 
 ## Learning Approach
 
@@ -111,5 +112,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 71 — Transactional Record Parsing and Output Integrity**
-- [English notes](labs/71-transactional-record-parsing/notes.md) · [Türkçe notlar](labs/71-transactional-record-parsing/notes.tr.md) · [Exercise](labs/71-transactional-record-parsing/transactional_parser.c)
+- **Day 72 — Signedness and Explicit Byte Decoding**
+- [English notes](labs/72-signedness-and-explicit-byte-decoding/notes.md) · [Türkçe notlar](labs/72-signedness-and-explicit-byte-decoding/notes.tr.md) · [Exercise](labs/72-signedness-and-explicit-byte-decoding/decode.c)
