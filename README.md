@@ -85,6 +85,7 @@ The goal is to understand how compiled programs work internally by exploring top
 - [Day 70 — Record State Machines and Transition Validation](labs/70-record-state-machines-and-transition-validation/notes.md)
 - [Day 71 — Transactional Record Parsing and Output Integrity](labs/71-transactional-record-parsing/notes.md)
 - [Day 72 — Signedness and Explicit Byte Decoding](labs/72-signedness-and-explicit-byte-decoding/notes.md)
+- [Day 73 — Fixed-Point Decoding and Range Validation](labs/73-fixed-point-decoding-and-range-validation/notes.md)
 
 ## Learning Approach
 
@@ -112,5 +113,5 @@ It serves as both a quick refresher for myself and a guide for others interested
 
 ## Latest lab
 
-- **Day 72 — Signedness and Explicit Byte Decoding**
-- [English notes](labs/72-signedness-and-explicit-byte-decoding/notes.md) · [Türkçe notlar](labs/72-signedness-and-explicit-byte-decoding/notes.tr.md) · [Exercise](labs/72-signedness-and-explicit-byte-decoding/decode.c)
+- **Day 73 — Fixed-Point Decoding and Range Validation**
+- [English notes](labs/73-fixed-point-decoding-and-range-validation/notes.md) · [Türkçe notlar](labs/73-fixed-point-decoding-and-range-validation/notes.tr.md) · [Exercise](labs/73-fixed-point-decoding-and-range-validation/fixed_point.c)

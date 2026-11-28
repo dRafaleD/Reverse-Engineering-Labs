@@ -85,6 +85,7 @@ Amaç; C, assembly, bellek, binary formatları, debugging ve statik/dinamik anal
 - [Gün 70 — Kayıt Durum Makinesi ve Geçiş Doğrulama](labs/70-record-state-machines-and-transition-validation/notes.tr.md)
 - [Gün 71 — İşlemsel Kayıt Ayrıştırma ve Çıktı Bütünlüğü](labs/71-transactional-record-parsing/notes.tr.md)
 - [Gün 72 — İşaretli Sayılar ve Açık Bayt Çözümleme](labs/72-signedness-and-explicit-byte-decoding/notes.tr.md)
+- [Gün 73 — Sabit Noktalı Sayı Çözümleme ve Aralık Kontrolü](labs/73-fixed-point-decoding-and-range-validation/notes.tr.md)
 
 ## Reverse Engineering Nedir?
 
